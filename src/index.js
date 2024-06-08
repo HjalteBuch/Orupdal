@@ -8,7 +8,7 @@ import HeroText from './HeroText';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-        <section class="flex flex-col h-screen bg-slate-100 bg-center bg-cover bg-blend-overlay bg-fixed bg-black/30 text-white" style={{'background-image': 'url("/vegetables.jpg")'}} >
+        <section class="flex flex-col h-screen bg-center bg-cover bg-blend-overlay bg-fixed bg-black/30 text-black" style={{'background-image': 'url("/vegetables.jpg")'}} >
             <Navbar />
             <HeroText />
         </section>
