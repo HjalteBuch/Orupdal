@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Orupdal/src/index.js/static/css/main.f7518260.css",
-    "main.js": "/Orupdal/src/index.js/static/js/main.9447476b.js",
-    "static/js/453.bf6d171c.chunk.js": "/Orupdal/src/index.js/static/js/453.bf6d171c.chunk.js",
-    "index.html": "/Orupdal/src/index.js/index.html",
-    "main.f7518260.css.map": "/Orupdal/src/index.js/static/css/main.f7518260.css.map",
-    "main.9447476b.js.map": "/Orupdal/src/index.js/static/js/main.9447476b.js.map",
-    "453.bf6d171c.chunk.js.map": "/Orupdal/src/index.js/static/js/453.bf6d171c.chunk.js.map"
+    "main.css": "/Orupdal/static/css/main.f7518260.css",
+    "main.js": "/Orupdal/static/js/main.32f7a22e.js",
+    "static/js/453.bf6d171c.chunk.js": "/Orupdal/static/js/453.bf6d171c.chunk.js",
+    "index.html": "/Orupdal/index.html",
+    "main.f7518260.css.map": "/Orupdal/static/css/main.f7518260.css.map",
+    "main.32f7a22e.js.map": "/Orupdal/static/js/main.32f7a22e.js.map",
+    "453.bf6d171c.chunk.js.map": "/Orupdal/static/js/453.bf6d171c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7518260.css",
-    "static/js/main.9447476b.js"
+    "static/js/main.32f7a22e.js"
   ]
 }
