@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Orupdal/static/css/main.f7518260.css",
-    "main.js": "/Orupdal/static/js/main.012c0051.js",
+    "main.css": "/Orupdal/static/css/main.d1029955.css",
+    "main.js": "/Orupdal/static/js/main.3f75d532.js",
     "static/js/453.bf6d171c.chunk.js": "/Orupdal/static/js/453.bf6d171c.chunk.js",
     "static/media/vegetables.jpg": "/Orupdal/static/media/vegetables.0a7eba0552f9cc147e7f.jpg",
     "static/media/grønsager.jpg": "/Orupdal/static/media/grønsager.f609e2e9e49cfc9d7a5d.jpg",
@@ -12,12 +12,12 @@
     "static/media/seedsihånd.jpg": "/Orupdal/static/media/seedsihånd.8584ff3171fcd6a99ec8.jpg",
     "static/media/logo.jpg": "/Orupdal/static/media/logo.301260332a1499a99a79.jpg",
     "index.html": "/Orupdal/index.html",
-    "main.f7518260.css.map": "/Orupdal/static/css/main.f7518260.css.map",
-    "main.012c0051.js.map": "/Orupdal/static/js/main.012c0051.js.map",
+    "main.d1029955.css.map": "/Orupdal/static/css/main.d1029955.css.map",
+    "main.3f75d532.js.map": "/Orupdal/static/js/main.3f75d532.js.map",
     "453.bf6d171c.chunk.js.map": "/Orupdal/static/js/453.bf6d171c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7518260.css",
-    "static/js/main.012c0051.js"
+    "static/css/main.d1029955.css",
+    "static/js/main.3f75d532.js"
   ]
 }
